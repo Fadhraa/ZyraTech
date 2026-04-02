@@ -30,7 +30,7 @@ function Home() {
             </div>
             <div className="md:col-span-6 relative h-[360px] sm:h-[450px] md:h-full md:min-h-[500px] mb-10 md:mb-0 mt-8 md:mt-0">
               <div className="absolute inset-0 bg-surface-container-low rounded-3xl overflow-hidden transform rotate-2"></div>
-              <img alt="Architectural Workspace" className="relative z-10 w-full h-full object-cover rounded-3xl shadow-2xl transform md:-rotate-2 hover:rotate-0 transition-transform duration-700" src="../public/images/pages_home.webp" />
+              <img alt="Architectural Workspace" className="relative z-10 w-full h-full object-cover rounded-3xl shadow-2xl transform md:-rotate-2 hover:rotate-0 transition-transform duration-700" src="/images/pages_home.webp" />
               <div className="absolute -bottom-8 md:-bottom-6 left-1/2 -translate-x-1/2 md:translate-x-0 md:-left-6 z-20 bg-surface-container-lowest p-5 md:p-6 rounded-2xl shadow-[0_10px_40px_-10px_rgba(0,0,0,0.15)] w-[88%] sm:w-[320px] border border-outline-variant/10 md:border-0">
                 <div className="flex items-center gap-3 mb-2">
                   <div className="w-3 h-3 rounded-full bg-secondary-container animate-pulse"></div>
