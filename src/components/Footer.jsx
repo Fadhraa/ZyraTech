@@ -30,16 +30,17 @@ function Footer() {
             ZyraTech
           </div>
           <div className="text-slate-500 font-body text-sm md:text-base opacity-90">
-            © 2024 ZyraTech. Premium Web Architecture.
+            © 2024 ZyraTech. Arsitektur Web Kelas Atas.
           </div>
         </div>
 
         {/* Right Side: Links */}
         <div className="flex flex-wrap items-center justify-center gap-6 md:gap-8">
-          <NavLink to="/">Home</NavLink>
-          <NavLink to="/services">Services</NavLink>
-          <NavLink to="/portfolio">Portfolio</NavLink>
-          <NavLink to="/consultation">Consultation</NavLink>
+          <NavLink to="/">Beranda</NavLink>
+          <NavLink to="/services">Layanan</NavLink>
+          <NavLink to="/portfolio">Portofolio</NavLink>
+          <NavLink to="/consultation">Konsultasi</NavLink>
+          <NavLink to="/feedback">Ulasan</NavLink>
         </div>
       </div>
     </footer>

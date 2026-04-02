@@ -12,7 +12,7 @@ function Home() {
         <section className="relative min-h-[100svh] md:min-h-[870px] flex items-center pt-24 pb-16 md:py-20 overflow-hidden px-6 lg:px-8" data-aos="fade-in">
           <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-12 gap-10 lg:gap-12 items-center w-full">
             <div className="md:col-span-6 z-10 pt-10 md:pt-0">
-              <span className="text-secondary font-headline font-bold tracking-widest text-xs uppercase mb-6 block">PROFESSIONAL WEB AGENCY</span>
+              <span className="text-secondary font-headline font-bold tracking-widest text-xs uppercase mb-6 block">AGENSI WEB PROFESIONAL</span>
               <h1 className="text-on-surface text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight mb-8 leading-[1.1] md:-ml-1">
                 Jasa Pembuatan Website: Berkualitas dan Terjangkau
               </h1>
@@ -30,14 +30,14 @@ function Home() {
             </div>
             <div className="md:col-span-6 relative h-[360px] sm:h-[450px] md:h-full md:min-h-[500px] mb-10 md:mb-0 mt-8 md:mt-0">
               <div className="absolute inset-0 bg-surface-container-low rounded-3xl overflow-hidden transform rotate-2"></div>
-              <img alt="Architectural Workspace" className="relative z-10 w-full h-full object-cover rounded-3xl shadow-2xl transform md:-rotate-2 hover:rotate-0 transition-transform duration-700" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAZrN8SHZWZ-z-iZjeLzm335uiaGdTxQq1_79Zo5AQf_k4zjN9E8RyuPhKWxCTc2A129Ff0UjmwqX1aFMV6W3RVI3LGkjw7zLpyh4_Z0bkh4Qw98L1DNvRbcsJyykL6jy6yfVvRMA0OFJKMQ3U2qk6teI2RFzTo3ltYk-Uf_xZxj0eW70pz9vs9kryIngJ2QkH6vSjyJujm2zRuH8l4RjBRwlJzLxAC6w6JrSNPK07bMTWlyC9tdLFffKtJvY6NbtAEJRvL3JNfbm-n" />
+              <img alt="Architectural Workspace" className="relative z-10 w-full h-full object-cover rounded-3xl shadow-2xl transform md:-rotate-2 hover:rotate-0 transition-transform duration-700" src="../public/images/pages_home.webp" />
               <div className="absolute -bottom-8 md:-bottom-6 left-1/2 -translate-x-1/2 md:translate-x-0 md:-left-6 z-20 bg-surface-container-lowest p-5 md:p-6 rounded-2xl shadow-[0_10px_40px_-10px_rgba(0,0,0,0.15)] w-[88%] sm:w-[320px] border border-outline-variant/10 md:border-0">
                 <div className="flex items-center gap-3 mb-2">
                   <div className="w-3 h-3 rounded-full bg-secondary-container animate-pulse"></div>
-                  <span className="text-sm font-headline font-bold text-on-surface">Available for projects</span>
+                  <span className="text-sm font-headline font-bold text-on-surface">Tersedia untuk proyek</span>
                 </div>
-                <p className="text-xs text-on-surface-variant font-body leading-relaxed md:block hidden">Currently accepting new design and development commissions for 2024.</p>
-                <p className="text-xs text-on-surface-variant font-body leading-relaxed md:hidden">Accepting new commissions for 2024.</p>
+                <p className="text-xs text-on-surface-variant font-body leading-relaxed md:block hidden">Saat ini menerima komisi desain dan pengembangan web baru.</p>
+                <p className="text-xs text-on-surface-variant font-body leading-relaxed md:hidden">Menerima komisi baru.</p>
               </div>
             </div>
           </div>
@@ -56,7 +56,7 @@ function Home() {
                      <span className="material-symbols-outlined text-3xl" style={{ fontVariationSettings: "'FILL' 1" }}>rocket_launch</span>
                   </div>
                   <h3 className="text-[#166e85] dark:text-cyan-400 text-4xl lg:text-5xl font-extrabold font-headline mb-2 tracking-tight">150+</h3>
-                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Projects Completed</p>
+                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Proyek Selesai</p>
                 </div>
                 
                 <div className="flex flex-col items-center justify-center text-center px-2 md:px-6 group/stat hover:-translate-y-2 transition-transform duration-300">
@@ -64,7 +64,7 @@ function Home() {
                      <span className="material-symbols-outlined text-3xl" style={{ fontVariationSettings: "'FILL' 1" }}>sentiment_satisfied</span>
                   </div>
                   <h3 className="text-[#166e85] dark:text-cyan-400 text-4xl lg:text-5xl font-extrabold font-headline mb-2 tracking-tight">98%</h3>
-                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Happy Clients</p>
+                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Klien Puas</p>
                 </div>
 
                 <div className="flex flex-col items-center justify-center text-center px-2 md:px-6 group/stat hover:-translate-y-2 transition-transform duration-300">
@@ -72,7 +72,7 @@ function Home() {
                      <span className="material-symbols-outlined text-3xl" style={{ fontVariationSettings: "'FILL' 1" }}>support_agent</span>
                   </div>
                   <h3 className="text-[#166e85] dark:text-cyan-400 text-4xl lg:text-5xl font-extrabold font-headline mb-2 tracking-tight">24/7</h3>
-                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Expert Support</p>
+                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Dukungan Ahli</p>
                 </div>
 
                 <div className="flex flex-col items-center justify-center text-center px-2 md:px-6 group/stat hover:-translate-y-2 transition-transform duration-300">
@@ -80,7 +80,7 @@ function Home() {
                      <span className="material-symbols-outlined text-3xl" style={{ fontVariationSettings: "'FILL' 1" }}>star</span>
                   </div>
                   <h3 className="text-[#166e85] dark:text-cyan-400 text-4xl lg:text-5xl font-extrabold font-headline mb-2 tracking-tight">5.0</h3>
-                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Google Rating</p>
+                  <p className="text-slate-500 dark:text-slate-400 font-body font-bold text-[10px] md:text-xs tracking-widest uppercase">Rating Google</p>
                 </div>
               </div>
             </div>
@@ -108,7 +108,7 @@ function Home() {
                   <div className="w-16 h-16 bg-gradient-to-br from-[#005a71] to-[#0e7490] rounded-2xl flex items-center justify-center text-white mb-8 group-hover:scale-110 group-hover:-rotate-3 transition-transform shadow-md">
                     <span className="material-symbols-outlined text-3xl">chat_bubble</span>
                   </div>
-                  <h4 className="text-2xl font-bold font-headline mb-4 text-on-surface">Consultation</h4>
+                  <h4 className="text-2xl font-bold font-headline mb-4 text-on-surface">Konsultasi</h4>
                   <p className="text-on-surface-variant leading-relaxed font-body">Kami mendengar visi Anda, menganalisis pasar, dan menyusun strategi blueprint digital yang unik.</p>
                 </div>
 
@@ -117,7 +117,7 @@ function Home() {
                   <div className="w-16 h-16 bg-gradient-to-br from-[#005a71] to-[#0e7490] rounded-2xl flex items-center justify-center text-white mb-8 group-hover:scale-110 group-hover:rotate-3 transition-transform shadow-md">
                     <span className="material-symbols-outlined text-3xl">architecture</span>
                   </div>
-                  <h4 className="text-2xl font-bold font-headline mb-4 text-on-surface">Design &amp; Build</h4>
+                  <h4 className="text-2xl font-bold font-headline mb-4 text-on-surface">Desain &amp; Bangun</h4>
                   <p className="text-on-surface-variant leading-relaxed font-body">Desain visual dikerjakan dengan presisi tinggi, memastikan UI/UX yang intuitif dan profesional.</p>
                 </div>
 
@@ -126,7 +126,7 @@ function Home() {
                   <div className="w-16 h-16 bg-gradient-to-br from-[#005a71] to-[#0e7490] rounded-2xl flex items-center justify-center text-white mb-8 group-hover:scale-110 group-hover:-rotate-3 transition-transform shadow-md">
                     <span className="material-symbols-outlined text-3xl">rocket_launch</span>
                   </div>
-                  <h4 className="text-2xl font-bold font-headline mb-4 text-on-surface">Launch</h4>
+                  <h4 className="text-2xl font-bold font-headline mb-4 text-on-surface">Peluncuran</h4>
                   <p className="text-on-surface-variant leading-relaxed font-body">Website Anda mengudara dengan optimasi penuh untuk kecepatan, SEO, dan performa tinggi.</p>
                 </div>
               </div>
@@ -135,7 +135,7 @@ function Home() {
         </section>
 
         {/* Reviews Section */}
-        <section className="py-20 md:py-32 bg-surface-container-low" data-aos="fade-up">
+        {/* <section className="py-20 md:py-32 bg-surface-container-low" data-aos="fade-up">
           <div className="max-w-7xl mx-auto px-0 md:px-8">
             <div className="flex flex-col mx-8 md:flex-row justify-between items-end mb-12 md:mb-16 gap-6">
               <div className="max-w-xl">
@@ -155,7 +155,7 @@ function Home() {
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 py-4 px-8 md:px-0">
-              {/* Review 1 */}
+       
               <div className="bg-surface-container-lowest p-8 rounded-[2rem] shadow-sm hover:-translate-y-2 hover:shadow-md transition-all">
                 <div className="flex items-center gap-1 text-secondary-container mb-4">
                   <span className="material-symbols-outlined" style={{fontVariationSettings: "'FILL' 1"}}>star</span>
@@ -178,7 +178,7 @@ function Home() {
                 </div>
               </div>
 
-              {/* Review 2 */}
+
               <div className="bg-surface-container-lowest p-8 rounded-[2rem] shadow-sm hover:-translate-y-2 hover:shadow-md transition-all">
                 <div className="flex items-center gap-1 text-secondary-container mb-4">
                   <span className="material-symbols-outlined" style={{fontVariationSettings: "'FILL' 1"}}>star</span>
@@ -201,7 +201,7 @@ function Home() {
                 </div>
               </div>
 
-              {/* Review 3 */}
+
               <div className="bg-surface-container-lowest p-8 rounded-[2rem] shadow-sm hover:-translate-y-2 hover:shadow-md transition-all">
                 <div className="flex items-center gap-1 text-secondary-container mb-4">
                   <span className="material-symbols-outlined" style={{fontVariationSettings: "'FILL' 1"}}>star</span>
@@ -225,7 +225,7 @@ function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* CTA Section */}
         <section className="py-24 px-8 mb-20 md:mb-0" data-aos="zoom-in">

@@ -8,6 +8,7 @@ import Home from './pages/Home';
 import Services from './pages/Services';
 import Consultation from './pages/Consultation';
 import Portfolio from './pages/Portfolio';
+import Feedback from './pages/Feedback';
 
 function App() {
   useEffect(() => {
@@ -26,6 +27,7 @@ function App() {
         <Route path="/services" element={<Services />} />
         <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/consultation" element={<Consultation />} />
+        <Route path="/feedback" element={<Feedback />} />
       </Routes>
     </BrowserRouter>
   );
