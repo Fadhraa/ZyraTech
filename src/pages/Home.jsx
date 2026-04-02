@@ -165,7 +165,7 @@ function Home() {
                   <span className="material-symbols-outlined" style={{fontVariationSettings: "'FILL' 1"}}>star</span>
                 </div>
                 <p className="text-on-surface font-body text-lg italic leading-relaxed mb-6">
-                  "ZyraTech benar-benar memahami visi bisnis saya. Websitenya rapi, cepat, dan sangat elegan. Arsitektur digital yang luar biasa!"
+                  "ZyvaraTech benar-benar memahami visi bisnis saya. Websitenya rapi, cepat, dan sangat elegan. Arsitektur digital yang luar biasa!"
                 </p>
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 rounded-full bg-surface-container-high overflow-hidden border-2 border-white shadow-sm">

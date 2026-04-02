@@ -27,10 +27,10 @@ function Footer() {
         {/* Left Side: Branding */}
         <div className="flex flex-col items-center md:items-start gap-2">
           <div className="text-xl font-bold font-headline text-[#166e85] dark:text-cyan-400">
-            ZyraTech
+            ZyvaraTech
           </div>
           <div className="text-slate-500 font-body text-sm md:text-base opacity-90">
-            © 2024 ZyraTech. Arsitektur Web Kelas Atas.
+            © 2024 ZyvaraTech. Arsitektur Web Kelas Atas.
           </div>
         </div>
 

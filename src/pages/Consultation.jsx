@@ -45,7 +45,7 @@ function Consultation() {
                   </div>
                   <div>
                     <p className="text-[10px] font-bold text-outline uppercase tracking-widest">Email Kami</p>
-                    <p className="text-on-surface font-semibold">hello@zyratech.com</p>
+                    <p className="text-on-surface font-semibold">hello@zyvaratech.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 rounded-xl bg-surface-container-lowest/50">
@@ -54,7 +54,7 @@ function Consultation() {
                   </div>
                   <div>
                     <p className="text-[10px] font-bold text-outline uppercase tracking-widest">Hubungi kami</p>
-                    <p className="text-on-surface font-semibold">+1 (555) 000-MIO</p>
+                    <p className="text-on-surface font-semibold">+1 (555) 000-ZYVA</p>
                   </div>
                 </div>
               </section>

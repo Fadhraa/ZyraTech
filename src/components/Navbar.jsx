@@ -10,7 +10,7 @@ function Navbar() {
       <nav className="bg-[#faf8ff]/90 dark:bg-slate-950/90 backdrop-blur-xl w-full top-0 sticky z-50 border-b border-slate-200/50 dark:border-slate-800/50 transition-colors duration-200 ease-in-out hidden md:block">
         <div className="flex justify-between items-center max-w-7xl mx-auto px-8 py-4">
           <Link to="/" className="text-xl font-bold tracking-tight text-[#166e85] dark:text-cyan-400 font-headline">
-            ZyraTech
+            ZyvaraTech
           </Link>
           <div className="hidden md:flex items-center gap-10 font-headline font-medium text-sm">
             <Link className={`pb-1 transition-colors ${currentPath === '/' ? 'text-cyan-700 dark:text-cyan-400 border-b-2 border-cyan-700' : 'text-slate-600 dark:text-slate-400 hover:text-cyan-600 dark:hover:text-cyan-300'}`} to="/">Beranda</Link>
