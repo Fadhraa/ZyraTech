@@ -46,9 +46,9 @@ function Services() {
                 <span>Hosting & Domain 1 Tahun</span>
               </li>
             </ul>
-            <button className="mt-auto w-full py-4 rounded-full border border-outline text-primary font-bold hover:bg-surface-container-high transition-colors">
+            <a href="https://wa.me/6285233724944?text=Halo%20ZyvaraTech,%20saya%20tertarik%20dengan%20Paket%20Dasar.%20Mohon%20informasi%20lebih%20lanjut." target="_blank" rel="noopener noreferrer" className="mt-auto w-full py-4 rounded-full border border-outline text-primary font-bold hover:bg-surface-container-high transition-colors text-center inline-block">
               Pilih Paket Dasar
-            </button>
+            </a>
           </div>
 
           <div className="relative bg-surface-container-lowest rounded-xl p-8 border-2 border-primary flex flex-col gap-6 overflow-hidden">
@@ -86,9 +86,9 @@ function Services() {
                 <span className="font-medium">Konten Copywriting</span>
               </li>
             </ul>
-            <button className="mt-auto w-full py-4 rounded-full bg-gradient-to-br from-primary to-primary-container text-on-primary font-bold shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all">
+            <a href="https://wa.me/6285233724944?text=Halo%20ZyvaraTech,%20saya%20tertarik%20dengan%20Paket%20Bisnis.%20Mohon%20informasi%20lebih%20lanjut." target="_blank" rel="noopener noreferrer" className="mt-auto w-full py-4 rounded-full bg-gradient-to-br from-primary to-primary-container text-on-primary font-bold shadow-lg hover:shadow-xl hover:-translate-y-1 transition-all text-center inline-block">
               Pilih Paket Bisnis
-            </button>
+            </a>
           </div>
 
           <div className="bg-surface-container-lowest rounded-xl p-8 border border-outline-variant/15 flex flex-col gap-6">
@@ -118,9 +118,9 @@ function Services() {
                 <span>Maintenance & Backup Bulanan</span>
               </li>
             </ul>
-            <button className="mt-auto w-full py-4 rounded-full border border-outline text-primary font-bold hover:bg-surface-container-high transition-colors">
+            <a href="https://wa.me/6285233724944" target="_blank" rel="noopener noreferrer" className="mt-auto w-full py-4 rounded-full border border-outline text-primary font-bold hover:bg-surface-container-high transition-colors text-center inline-block">
               Hubungi Konsultan
-            </button>
+            </a>
           </div>
         </section>
 

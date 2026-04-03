@@ -25,7 +25,7 @@ function Consultation() {
             <div className="space-y-8">
               {/* WhatsApp Card */}
               <section>
-                <a className="flex items-center gap-4 p-5 bg-surface-container-lowest rounded-2xl shadow-sm border border-outline-variant/15 hover:border-primary/30 transition-all group" href="#">
+                <a className="flex items-center gap-4 p-5 bg-surface-container-lowest rounded-2xl shadow-sm border border-outline-variant/15 hover:border-primary/30 transition-all group" href="https://wa.me/6285233724944" target="_blank" rel="noopener noreferrer">
                   <div className="w-14 h-14 rounded-full bg-tertiary-container/10 flex items-center justify-center group-hover:scale-110 transition-transform">
                     <span className="material-symbols-outlined text-tertiary-container text-3xl" data-icon="chat" data-weight="fill" style={{ fontVariationSettings: "'FILL' 1" }}>chat</span>
                   </div>
@@ -45,7 +45,7 @@ function Consultation() {
                   </div>
                   <div>
                     <p className="text-[10px] font-bold text-outline uppercase tracking-widest">Email Kami</p>
-                    <p className="text-on-surface font-semibold">hello@zyvaratech.com</p>
+                    <a className="text-on-surface font-semibold hover:text-primary transition-colors" href="mailto:zyvaratech.id@gmail.com">zyvaratech.id@gmail.com</a>
                   </div>
                 </div>
                 <div className="flex items-center gap-4 p-4 rounded-xl bg-surface-container-lowest/50">
@@ -54,7 +54,7 @@ function Consultation() {
                   </div>
                   <div>
                     <p className="text-[10px] font-bold text-outline uppercase tracking-widest">Hubungi kami</p>
-                    <p className="text-on-surface font-semibold">+1 (555) 000-ZYVA</p>
+                    <p className="text-on-surface font-semibold">+62 852-3372-4944</p>
                   </div>
                 </div>
               </section>

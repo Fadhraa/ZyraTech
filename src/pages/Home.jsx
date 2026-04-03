@@ -9,7 +9,7 @@ function Home() {
 
       <main>
         {/* Hero Section */}
-        <section className="relative min-h-[100svh] md:min-h-[870px] flex items-center pt-24 pb-16 md:py-20 overflow-hidden px-6 lg:px-8" data-aos="fade-in">
+        <section className="relative min-h-[85svh] md:min-h-[500px] flex items-center pt-20 pb-10 md:pt-3 md:pb-8 overflow-hidden px-6 lg:px-8" data-aos="fade-in">
           <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-12 gap-10 lg:gap-12 items-center w-full">
             <div className="md:col-span-6 z-10 pt-10 md:pt-0">
               <span className="text-secondary font-headline font-bold tracking-widest text-xs uppercase mb-6 block">AGENSI WEB PROFESIONAL</span>
@@ -44,10 +44,10 @@ function Home() {
         </section>
 
         {/* Stats Section */}
-        <section className="py-12 md:py-16 mt-6 md:mt-12 relative z-20" data-aos="fade-up">
+        {/* <section className="py-12 md:py-16 mt-6 md:mt-12 relative z-20" data-aos="fade-up">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="bg-white dark:bg-slate-900 rounded-[2.5rem] shadow-2xl shadow-cyan-900/10 border border-slate-100 dark:border-slate-800 p-8 md:p-12 relative overflow-hidden group">
-              {/* Background Glow */}
+        
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-50/50 via-transparent to-orange-50/50 dark:from-cyan-900/10 dark:to-orange-900/10 opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
               
               <div className="grid grid-cols-2 md:grid-cols-4 gap-y-12 gap-x-4 md:gap-y-0 md:divide-x divide-slate-200 dark:divide-slate-800 relative z-10">
@@ -85,7 +85,7 @@ function Home() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
 
         {/* Workflow Section */}
         <section className="py-20 md:py-32 bg-background" data-aos="fade-up">
@@ -245,9 +245,9 @@ function Home() {
                 <Link to="/services" className="bg-secondary-container bg-[#fd761a] text-on-secondary-container text-[#5c2400] font-headline font-bold px-12 py-5 rounded-full text-xl shadow-2xl hover:scale-105 transition-transform text-center">
                   Mulai Sekarang
                 </Link>
-                <Link to="/consultation" className="bg-white/10 text-on-primary text-white font-headline font-bold px-12 py-5 rounded-full text-xl backdrop-blur-md border border-white/20 hover:bg-white/20 transition-all text-center">
+                <a href="https://wa.me/6285233724944" target="_blank" rel="noopener noreferrer" className="bg-white/10 text-on-primary text-white font-headline font-bold px-12 py-5 rounded-full text-xl backdrop-blur-md border border-white/20 hover:bg-white/20 transition-all text-center">
                   Konsultasi WhatsApp
-                </Link>
+                </a>
               </div>
             </div>
           </div>

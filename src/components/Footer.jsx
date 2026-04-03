@@ -30,7 +30,7 @@ function Footer() {
             ZyvaraTech
           </div>
           <div className="text-slate-500 font-body text-sm md:text-base opacity-90">
-            © 2024 ZyvaraTech. Arsitektur Web Kelas Atas.
+            © 2026 ZyvaraTech. Arsitektur Web Kelas Atas.
           </div>
         </div>
 
